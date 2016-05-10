@@ -18,6 +18,10 @@ A simple wrapper to automate [perlbrew](http://perlbrew.pl) installation.
     $ sparrow plg run perlbrew --param action=install
 
 
+# Supported platfroms
+
+* Ubuntu
+
 # AUTHOR
 
 [Alexey Melezhik](mailto:melezhik@gmail.com)
