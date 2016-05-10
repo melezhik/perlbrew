@@ -1,0 +1,5 @@
+{
+    "name" : "perlbrew",
+    "version" : "0.1.0",
+    "description" : "A simple wrapper to automate perlbrew installation"
+}
