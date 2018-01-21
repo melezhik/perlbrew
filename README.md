@@ -21,6 +21,7 @@ A simple wrapper to automate [perlbrew](http://perlbrew.pl) installation.
 # Supported platfroms
 
 * Ubuntu
+* Debian
 
 # AUTHOR
 
